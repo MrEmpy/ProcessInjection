@@ -6,3 +6,8 @@ Add your shellcode on the 6th line.
 ```
 g++ -o pinjection.exe pinjection.c
 ```
+
+## Usage
+```
+.\pinjection.exe <PID>
+```
